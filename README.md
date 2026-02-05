@@ -85,7 +85,16 @@ ________________________________________
 •	Running configuration before and after<br>
 •	MOTD banner display<br>
 •	Password prompts<br>
+
+<img width="1919" height="1079" alt="exp7-1" src="https://github.com/user-attachments/assets/94e1ce96-4194-454b-a4d0-d21807e7b5ee" />
+
 •	Saved configuration in NVRAM and flash<br>
+
+<img width="961" height="1079" alt="exp7-2" src="https://github.com/user-attachments/assets/bb5e5196-1a3b-4592-b9fb-67486466955e" />
+
+<img width="1172" height="1008" alt="image" src="https://github.com/user-attachments/assets/44574fc6-096e-448f-a74f-665cd972bfc2" />
+
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
