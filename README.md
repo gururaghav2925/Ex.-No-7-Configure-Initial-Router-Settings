@@ -16,7 +16,9 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+
+<img width="858" height="581" alt="492225262-85906d79-169a-4211-8873-bf331115c8cf" src="https://github.com/user-attachments/assets/dba8200c-5a63-464e-a4e3-ffb3198d8ced" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
