@@ -81,23 +81,29 @@ ________________________________________
 •	To save configuration: copy running-config startup-config, wr, copy startup-config flash<br>
 ________________________________________
 # Output (Attach Screenshots)
-•	Console connection to router<br>
+
 •	Running configuration before and after<br>
-•	MOTD banner display<br>
-•	Password prompts<br>
+
+
+
 
 <img width="1919" height="1079" alt="exp7-1" src="https://github.com/user-attachments/assets/94e1ce96-4194-454b-a4d0-d21807e7b5ee" />
+
+
+•	Password prompts<br>
+
+•	MOTD banner display<br>
 
 <img width="957" height="1007" alt="image" src="https://github.com/user-attachments/assets/d7aaa333-e95b-4ef9-8ce2-8c58b8811831" />
 
 
-•	Saved configuration in NVRAM and flash<br>
+•	Console connection to router<br>
 
 <img width="961" height="1079" alt="exp7-2" src="https://github.com/user-attachments/assets/bb5e5196-1a3b-4592-b9fb-67486466955e" />
 
 <img width="1172" height="1008" alt="image" src="https://github.com/user-attachments/assets/44574fc6-096e-448f-a74f-665cd972bfc2" />
 
-<img width="954" height="1012" alt="image" src="https://github.com/user-attachments/assets/e26232b8-2139-4029-aa42-a811d6badfd6" />
+•	Saved configuration in NVRAM and flash<br>
 
 <img width="959" height="1017" alt="image" src="https://github.com/user-attachments/assets/99517de3-ffb6-4834-bfd0-f7379ef0d35b" />
 
