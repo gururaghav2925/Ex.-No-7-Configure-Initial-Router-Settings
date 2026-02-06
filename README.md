@@ -101,6 +101,8 @@ ________________________________________
 
 <img width="959" height="1017" alt="image" src="https://github.com/user-attachments/assets/99517de3-ffb6-4834-bfd0-f7379ef0d35b" />
 
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/693c3008-3024-4789-9189-3d69d4756750" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
